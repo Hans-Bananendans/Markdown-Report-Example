@@ -1,5 +1,5 @@
 # Markdown-Report-Example
-An example of how to create a Markdown-based report for export to PDF. The editor of choice for this is []Obsidian Md](https://obsidian.md)
+An example of how to create a Markdown-based report for export to PDF. The editor of choice for this is [Obsidian Md](https://obsidian.md)
 
 
 ## Quick start guide
